@@ -1,0 +1,25 @@
+{
+    "Name": "John Doe",
+    "Email": "john.doe@example.com",
+    "Company": "Example Corporation",
+    "Job": "Engineer",
+    "Unit": "Research",
+    "Gender": "Male",
+    "Age" : 13,
+    "Title": [
+        {
+            "Name": "Steven",
+            "Danger": "Lower"
+        },
+        {
+            "Name": "Gerald",
+            "Danger": "Female"
+        },
+        {
+            "Name": "Branko",
+            "Danger": "Lustig"
+        }
+    ],
+    "Research": "Schindler's List"
+
+}
